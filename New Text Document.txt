@@ -1,0 +1,23 @@
+html
+
+head head.
+
+body
+
+main
+ section-glass
+
+   div-dashboard[user,links(link,link,link),pro]
+   dashboard.
+
+
+   div-games[status,cards()]
+   games.
+
+ section.
+main.
+
+
+
+
+
